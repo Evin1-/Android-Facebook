@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">SimpleFacebook</string>
-    <string name="facebook_app_id"></string>
+    <string name="facebook_app_id" translatable="false"></string>
 </resources>
